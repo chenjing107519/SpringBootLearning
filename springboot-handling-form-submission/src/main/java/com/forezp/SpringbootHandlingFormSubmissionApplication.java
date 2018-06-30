@@ -11,5 +11,7 @@ public class SpringbootHandlingFormSubmissionApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootHandlingFormSubmissionApplication.class, args);
+		
+		
 	}
 }
